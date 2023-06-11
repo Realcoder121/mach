@@ -1,1 +1,2 @@
-## END TO END ML PROJECT
+## end to end machine learning project
+## made with git and various ml techniques
